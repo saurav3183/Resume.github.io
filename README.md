@@ -20,13 +20,13 @@ Aditya Raj
 </h2>
 <img src = "myphoto2.jpg" align = "right" height = "130" width = "100"/>
 Mobile no: 9616****89
-Email address : Aditya**@gmail.com
+Email address :saurav***@gmail.com
 <h2> Personal information : </h2>
 <ul>
-<li> Father's Name : Mrityunjay kumar</li>
+<li> Father's Name : Ranjit kumar</li>
 <li> Religion : Hindu </li>
 <li> Nationality : Indian </li>
-<li> Date of Birth : 18 August 2002</li>
+<li> Date of Birth : 31 july 2001</li>
 </ul>
 <h2> Qualification : </h2>
 <table border = "1"><tr><th>Branch</th><th>
@@ -36,7 +36,7 @@ Faculty
 <tr>
 <td>B-Tech(CSE(CSF-IBM)<</td>
 <td>Fet</td>
-<td> 1/19/FET/BCS/200</td>
+<td> 1/19/FET/BCS/181</td>
 </tr>
 </table>
 <h2>Personal Skills : </h2>
