@@ -16,10 +16,10 @@ My Resume
 <tr>
 <th align = "left">
 <h2>
-Aditya Raj
+Kumar Saurav
 </h2>
 <img src = "myphoto2.jpg" align = "right" height = "130" width = "100"/>
-Mobile no: 9616****89
+Mobile no: 8383***993
 Email address :saurav***@gmail.com
 <h2> Personal information : </h2>
 <ul>
