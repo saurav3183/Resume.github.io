@@ -1,5 +1,4 @@
 # Resume.html
-resume
 <html>
 <head>
 <title>
